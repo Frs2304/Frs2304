@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frs2304&label=Profile%20views&color=0e75b6&style=flat" alt="frs2304" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tusharmishra" target="blank"><img src="https://img.shields.io/twitter/follow/tusharmishra?logo=twitter&style=for-the-badge" alt="tusharmishra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yashmis23" target="blank"><img src="https://img.shields.io/twitter/follow/yashmis23?logo=twitter&style=for-the-badge" alt="yashmis23" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Python.**
 
-- 👬🏻 I’m looking to collaborate on **open source projects.**
+- I’m looking to collaborate on **open source projects**
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tusharmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharmishra" height="30" width="40" /></a>
+<a href="https://twitter.com/yashmis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmis23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tushar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar mishra" height="30" width="40" /></a>
 </p>
 
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frs2304&show_icons=true&locale=en" alt="frs2304" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frs2304&" alt="frs2304" /></p>
-
