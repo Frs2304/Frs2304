@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Mishra</h1>
-<h3 align="center">A passionate Cross-Platform developer from India.</h3>
+<h3 align="center">A Third Year CS Engineer and a passionate Cross-Platform developer from India.</h3>
 <img align = "right" alt = "coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frs2304&label=Profile%20views&color=0e75b6&style=flat" alt="frs2304" /> </p>
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Flutter,Python.**
 
-- I’m looking to collaborate on **open source projects**
+- 👯‍♂️ I’m looking to collaborate on **open source projects**
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
 - 💬 Ask me about **C++,Web Development.**
 
-- 📫 How to reach me **tusharmishra2304@gmail.com**
+- 📫 How to reach me ➡️**tusharmishra2304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
