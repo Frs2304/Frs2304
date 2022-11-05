@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter,Python.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👬🏻 I’m looking to collaborate on **open source projects.**
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
