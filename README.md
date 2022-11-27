@@ -16,6 +16,8 @@
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com**
 
+- ⚡ Fun fact : The meaning of my name is Dew.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashmis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmis23" height="30" width="40" /></a>
