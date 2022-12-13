@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashmis23" target="blank"><img src="https://img.shields.io/twitter/follow/yashmis23?logo=twitter&style=for-the-badge" alt="yashmis23" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Python.**
+- 🌱 I’m currently learning **Flutter , MERN Stack.**
 
 - 👯‍♂️ I’m looking to collaborate on **open source projects**
 
