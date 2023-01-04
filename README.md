@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Flutter , MERN Stack.**
 
-- 👯‍♂️ I’m looking to collaborate on **open source projects**
+- 👯‍♂️ I’m looking to collaborate on **open source projects.**
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
-- 💬 Ask me about **Flutter , JavaScript**
+- 💬 Ask me about **Flutter , JavaScript.**
 
-- 📫 Reach me here ➡️**tusharmishra2304@gmail.com**
+- 📫 Reach me here ➡️**tusharmishra2304@gmail.com.**
 
 - ⚡ Fun fact : The meaning of my name is Dew.
 
