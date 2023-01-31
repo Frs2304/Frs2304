@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
-- 💬 Ask me about **Flutter , JavaScript**
+- 💬 Ask me about **Flutter , JavaScript.**
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com**
 
