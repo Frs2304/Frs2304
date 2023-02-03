@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/Frs2304" target="blank"><img src="https://img.shields.io/twitter/follow/Frs2304?logo=twitter&style=for-the-badge" alt="Frs2304" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , MERN Stack.**
+- 🌱 I’m currently learning **Flutter , DevOps.**
 
 - 👯‍♂️ I’m looking to collaborate on **open source projects.**
 
 - 📝 I regularly write articles on [https://blogstartushar.blogspot.com](https://blogstartushar.blogspot.com)
 
-- 💬 Ask me about **Flutter , JavaScript.**
+- 💬 Ask me about **Flutter , MERN.**
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com**
 
