@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on: [https://hashnode.com/@Frs23](https://hashnode.com/@Frs23)
 
-- 💬 Ask me about **Flutter , MERN**
+- 💬 Ask me about **MERN Stack.**
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com**
 
