@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack, DevOps.**
 
-- 👯‍♂️ I’m looking to collaborate on **open source projects.**
+- 👯‍♂️ I’m looking to collaborate on **Open source projects.**
 
 - 📝 I regularly write articles on: [https://tusharmishra.hashnode.dev](https://tusharmishra.hashnode.dev)
 
