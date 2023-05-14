@@ -18,14 +18,7 @@
 
 - ⚡ Fun fact : The meaning of my name is Dew😂
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashmis23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmis23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar mishra" height="30" width="40" /></a>
-</p>   
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frs2304&show_icons=true&locale=en&layout=compact" alt="frs2304" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frs2304&show_icons=true&locale=en" alt="frs2304" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frs2304&" alt="frs2304" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frs2304&include_all_commits=true&count_private=true&show_icons=true&line_height=26&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frs2304&theme=tokyonight" alt="mystreak"/>
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
  
