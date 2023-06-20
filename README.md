@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Mishra</h1>
+<h1 align="center">Hello 👋, I'm Tushar Mishra</h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2>
 
 ## About Me
