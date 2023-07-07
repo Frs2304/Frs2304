@@ -14,7 +14,7 @@
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com** 
 
-- ⚡ Fun fact : The meaning of my name is Dew😂
+- ⚡ Fun fact: The meaning of my name is Dew😂
 
 
 ## My GitHub Stats
