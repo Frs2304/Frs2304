@@ -8,7 +8,7 @@
 
 - 👯‍♂️ I’m looking to collaborate on **Open Source projects.**
 
-- 📝 I regularly write articles on: [https://tusharmishra.hashnode.dev](https://tusharmishra.hashnode.dev)
+- 📝 I regularly write articles on: [https://tusharmishra.hashnode.dev](https://tusharmishra.hashnode.dev), https://medium.com/@tusharmishra2304
 
 - 💬 Ask me about **DevOps, MERN Stack.**
 
