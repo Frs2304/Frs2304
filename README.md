@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on: [https://tusharmishra.hashnode.dev](https://tusharmishra.hashnode.dev), https://medium.com/@tusharmishra2304
 
-- 💬 Ask me about ** MERN Stack.**
+- 💬 Ask me about **MERN Stack.**
 
 - 📫 Reach me here ➡️**tusharmishra2304@gmail.com** 
 
